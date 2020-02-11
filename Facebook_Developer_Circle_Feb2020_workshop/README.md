@@ -1,4 +1,6 @@
-Quantum Computing Workshop
+*Quantum Computing Workshop*
+
 February 10th 
+
 Facebook, Stockholm, Sweden
 
