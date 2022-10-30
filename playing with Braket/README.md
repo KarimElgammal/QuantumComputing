@@ -1,7 +1,7 @@
 # Playing with Braket
 
 I herby present a set of examples around the AWS Braket SDK where I used the SDK to make the following notebooks:
-- [**1_local_simulator.ipynb**](./1_local_simulator.ipynb) -  build a quantum circuit and run it on a local simulator
+- [**1_hello_braket.ipynb**](./1_local_simulator.ipynb) -  build a quantum circuit and run it on a local simulator
 - I use the SDK to run the circuit on a AWS simulators statevector (sv1) and tensor network (tn1) (to do)
 - I use the SDK to run the circuit on a real quantum computer (to do)
 - I use the SDK to get the results and analyze them (to do)
